@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "when wrapping LP token, rewards is not transferred to the lp owner",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/3"
+}
