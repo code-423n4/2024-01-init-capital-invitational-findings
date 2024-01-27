@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "LP unwrap / wrap is fully broken if master chef contract has insufficient reward token and block decollateralize wlp and wlp liquidation",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/2"
+}
