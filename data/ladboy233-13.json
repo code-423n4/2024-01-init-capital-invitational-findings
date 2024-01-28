@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "Malicious master chef admin can block lp unwrap by making reward token transfer distribution out of gas",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/13"
+}
