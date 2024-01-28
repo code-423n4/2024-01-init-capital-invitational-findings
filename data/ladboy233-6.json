@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "MarginTradingHook.sol#updateOrder does not validate order.tokenOut, allowing order creator maliciously modify order.tokenOut before filling the order ",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/6"
+}
