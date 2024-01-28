@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "Order can be filled in a very unfavorable condition for order creator if user's borrow pool collateral is liquidated or if the borrower pool debt is already repaid",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/17"
+}
