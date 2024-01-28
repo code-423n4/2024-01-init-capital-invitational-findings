@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "Missing Slippage control when increase position in MarginTradeHook.sol",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/15"
+}
