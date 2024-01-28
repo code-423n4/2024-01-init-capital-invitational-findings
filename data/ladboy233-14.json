@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "LsdApi3OracleReader.sol implementation does not mitigate M-11 from last audit",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/14"
+}
