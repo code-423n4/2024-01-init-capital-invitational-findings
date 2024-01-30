@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "said",
+  "risk": "3",
+  "title": "`fillOrder` not properly cancel order when collateral of position is empty",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/20"
+}
