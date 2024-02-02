@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "sashik_eth",
+  "risk": "3",
+  "title": "MarginTradingHook users could potentially be DOSed",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/35"
+}
