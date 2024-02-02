@@ -1,0 +1,8 @@
+{
+  "contest": 325,
+  "handle": "0x73696d616f",
+  "risk": "3",
+  "title": "Specifying a farm in Masterchef which accepts MOE or the reward token as LP would break rewards accounting",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2024-01-init-capital-invitational-findings/issues/37"
+}
